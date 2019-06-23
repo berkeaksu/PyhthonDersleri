@@ -1,1 +1,0 @@
-print("GitHub'a dosya push ediliyor")
