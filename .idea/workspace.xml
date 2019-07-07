@@ -1,62 +1,114 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="202514aa-8072-4b27-a3f9-997e234122d2" name="Default Changelist" comment="" />
+    <list default="true" id="202514aa-8072-4b27-a3f9-997e234122d2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson10/Metot1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson10/Metot1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson10/Metot2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson10/Metot2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson10/Metot3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson10/Metot3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson10/Metot4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson10/Metot4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson11/Center.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson11/Center.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson11/Count.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson11/Count.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson11/Endswith.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson11/Endswith.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson11/Find.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson11/Find.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson11/Index.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson11/Index.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson11/Join.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson11/Join.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson11/Lower-Upper.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson11/Lower-Upper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson11/Maketrans.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson11/Maketrans.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson11/Reverse.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson11/Reverse.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson11/Rsplit.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson11/Rsplit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson11/Sorted.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson11/Sorted.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson11/Split.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson11/Split.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson11/Splitlines.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson11/Splitlines.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson11/Startswith.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson11/Startswith.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson11/Strip.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson11/Strip.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson11/Swapcase.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson11/Swapcase.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson11/Örnek1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson11/Örnek1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson11/Örnek2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson11/Örnek2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson4/Dictionary.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson4/Dictionary.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson4/DictionaryMetodlar.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson4/DictionaryMetodlar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson4/List.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson4/List.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson4/ListMetodlar.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson4/ListMetodlar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson4/Tuple.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson4/Tuple.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson5/While1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson5/While1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson5/While2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson5/While2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson5/While3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson5/While3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson5/While4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson5/While4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson5/While5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson5/While5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson5/While6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson5/While6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson5/While7.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson5/While7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson5/While8.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson5/While8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson6/For1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson6/For1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson6/For2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson6/For2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson6/For3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson6/For3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson6/For4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson6/For4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson6/For5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson6/For5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson6/For6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson6/For6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson6/For7.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson6/For7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson7/Break.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson7/Break.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson7/Pass.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson7/Pass.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson7/Range.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson7/Range.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson8/Void1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson8/Void1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson8/Void10.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson8/Void10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson8/Void2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson8/Void2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson8/Void3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson8/Void3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson8/Void4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson8/Void4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson8/Void5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson8/Void5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson8/Void6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson8/Void6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson8/Void7.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson8/Void7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson8/Void8.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson8/Void8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson8/Void9.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson8/Void9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson9/Function1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson9/Function1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson9/Function2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson9/Function2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson9/Function3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson9/Function3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson9/Function4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson9/Function4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson9/Function5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson9/Function5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson9/Function6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson9/Function6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson9/Function7.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson9/Function7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson9/Function8.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson9/Function8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/python.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/pyvenv.cfg" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="PythonExp" />
+  </component>
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lesson2/HataYonetimi.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lesson2/HataYonetimi_Ornek.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lesson2/HataYonetimi_Ornek1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lesson2/HataYonetimi_Ornek2.py">
+        <entry file="file://$PROJECT_DIR$/Lesson11/Find.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="221">
-              <caret line="13" column="42" lean-forward="true" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
+              <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lesson2/HataYonetimi_Ornek3.py">
+        <entry file="file://$PROJECT_DIR$/Lesson11/Center.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+            <state relative-caret-position="204">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lesson11/Maketrans.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Lesson1/degiskenler.py">
+        <entry file="file://$PROJECT_DIR$/Lesson5/While1.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -69,30 +121,78 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/HataYonetimi.py" />
-        <option value="$PROJECT_DIR$/Lesson2/HataYonetimi.py" />
-        <option value="$PROJECT_DIR$/Lesson2/HataYonetimi_Ornek.py" />
-        <option value="$PROJECT_DIR$/Lesson2/HataYonetimi_Ornek1.py" />
-        <option value="$PROJECT_DIR$/Lesson2/HataYonetimi_Ornek2.py" />
-        <option value="$PROJECT_DIR$/Lesson2/HataYonetimi_Ornek3.py" />
+        <option value="$PROJECT_DIR$/Lesson7/Range.py" />
+        <option value="$PROJECT_DIR$/Lesson7/Pass.py" />
+        <option value="$PROJECT_DIR$/Lesson7/Break.py" />
+        <option value="$PROJECT_DIR$/Lesson8/Void1.py" />
+        <option value="$PROJECT_DIR$/Lesson8/Void2.py" />
+        <option value="$PROJECT_DIR$/Lesson8/Void3.py" />
+        <option value="$PROJECT_DIR$/Lesson8/Void4.py" />
+        <option value="$PROJECT_DIR$/Lesson8/Void5.py" />
+        <option value="$PROJECT_DIR$/Lesson8/Void6.py" />
+        <option value="$PROJECT_DIR$/Lesson8/Void7.py" />
+        <option value="$PROJECT_DIR$/Lesson7/Void8.py" />
+        <option value="$PROJECT_DIR$/Lesson8/Void8.py" />
+        <option value="$PROJECT_DIR$/Lesson8/Void9.py" />
+        <option value="$PROJECT_DIR$/Lesson8/Void11.py" />
+        <option value="$PROJECT_DIR$/Lesson9/Function1.py" />
+        <option value="$PROJECT_DIR$/Lesson9/Function2.py" />
+        <option value="$PROJECT_DIR$/Lesson9/Function3.py" />
+        <option value="$PROJECT_DIR$/Lesson9/Function4.py" />
+        <option value="$PROJECT_DIR$/Lesson9/Function6.py" />
+        <option value="$PROJECT_DIR$/Lesson9/Function7.py" />
+        <option value="$PROJECT_DIR$/Lesson9/Function5.py" />
+        <option value="$PROJECT_DIR$/Lesson9/Function8.py" />
+        <option value="$PROJECT_DIR$/Lesson10/Metot1.py" />
+        <option value="$PROJECT_DIR$/Lesson8/Void10.py" />
+        <option value="$PROJECT_DIR$/Lesson10/Metot2.py" />
+        <option value="$PROJECT_DIR$/Lesson10/Metot3.py" />
+        <option value="$PROJECT_DIR$/Lesson10/Metot4.py" />
+        <option value="$PROJECT_DIR$/Lesson10/Metot5.py" />
+        <option value="$PROJECT_DIR$/Lesson11/Metotlar1.py" />
+        <option value="$PROJECT_DIR$/Lesson11/Metotlar2.py" />
+        <option value="$PROJECT_DIR$/Lesson11/Sorted.py" />
+        <option value="$PROJECT_DIR$/Lesson11/Reverse.py" />
+        <option value="$PROJECT_DIR$/Lesson11/Örnek1.py" />
+        <option value="$PROJECT_DIR$/Lesson11/Split.py" />
+        <option value="$PROJECT_DIR$/Lesson11/Rsplit.py" />
+        <option value="$PROJECT_DIR$/Lesson1/degiskenler.py" />
+        <option value="$PROJECT_DIR$/Lesson11/Splitlines.py" />
+        <option value="$PROJECT_DIR$/Lesson11/Lower-Upper.py" />
+        <option value="$PROJECT_DIR$/Lesson11/End-With.py" />
+        <option value="$PROJECT_DIR$/Lesson11/Ends-With.py" />
+        <option value="$PROJECT_DIR$/Lesson11/Endswith.py" />
+        <option value="$PROJECT_DIR$/Lesson11/Startswith.py" />
+        <option value="$PROJECT_DIR$/Lesson11/Örnek2.py" />
+        <option value="$PROJECT_DIR$/Lesson11/Swapcase.py" />
+        <option value="$PROJECT_DIR$/Lesson11/Strip.py" />
+        <option value="$PROJECT_DIR$/Lesson11/Join.py" />
+        <option value="$PROJECT_DIR$/Lesson11/Count.py" />
+        <option value="$PROJECT_DIR$/Lesson11/Find.py" />
+        <option value="$PROJECT_DIR$/Lesson11/Index.py" />
+        <option value="$PROJECT_DIR$/Lesson11/Center.py" />
+        <option value="$PROJECT_DIR$/Lesson11/Maketrans.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="20" />
     <option name="y" value="20" />
     <option name="width" value="1400" />
     <option name="height" value="820" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -105,19 +205,16 @@
               <item name="PythonExp" type="462c0819:PsiDirectoryNode" />
               <item name="Lesson1" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="PythonExp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PythonExp" type="462c0819:PsiDirectoryNode" />
-              <item name="Lesson2" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -126,6 +223,11 @@
         <option name="myModuleName" value="PythonExp" />
       </console-settings>
     </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ahmet.aksu\Desktop\PythonExp\Lesson8" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -139,8 +241,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.HataYonetimi_Ornek3">
-    <configuration name="HataYonetimi" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Maketrans">
+    <configuration name="Center" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonExp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -148,11 +250,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lesson2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lesson11" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson2/HataYonetimi.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson11/Center.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,7 +263,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="HataYonetimi_Ornek" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Count" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonExp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -169,11 +271,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lesson2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lesson11" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson2/HataYonetimi_Ornek.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson11/Count.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -182,7 +284,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="HataYonetimi_Ornek1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Index" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonExp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -190,11 +292,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lesson2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lesson11" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson2/HataYonetimi_Ornek1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson11/Index.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -203,7 +305,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="HataYonetimi_Ornek2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Join" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonExp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -211,11 +313,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lesson2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lesson11" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson2/HataYonetimi_Ornek2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson11/Join.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -224,7 +326,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="HataYonetimi_Ornek3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Maketrans" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonExp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -232,11 +334,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lesson2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lesson11" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson2/HataYonetimi_Ornek3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson11/Maketrans.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -247,11 +349,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.HataYonetimi_Ornek3" />
-        <item itemvalue="Python.HataYonetimi_Ornek2" />
-        <item itemvalue="Python.HataYonetimi_Ornek1" />
-        <item itemvalue="Python.HataYonetimi_Ornek" />
-        <item itemvalue="Python.HataYonetimi" />
+        <item itemvalue="Python.Maketrans" />
+        <item itemvalue="Python.Center" />
+        <item itemvalue="Python.Index" />
+        <item itemvalue="Python.Count" />
+        <item itemvalue="Python.Join" />
       </list>
     </recent_temporary>
   </component>
@@ -269,70 +371,382 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1456" height="876" extended-state="7" />
+    <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23977433" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49799198" visible="true" weight="0.23977433" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" weight="0.32974428" />
-      <window_info anchor="bottom" id="Terminal" weight="0.32974428" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" sideWeight="0.502008" side_tool="true" weight="0.23977433" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32974428" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30551818" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39973083" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32974428" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32974428" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32974428" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49799198" visible="true" weight="0.23977433" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" sideWeight="0.502008" side_tool="true" weight="0.23977433" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32974428" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32974428" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32974428" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32974428" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/HataYonetimi.py">
+    <entry file="file://$PROJECT_DIR$/Lesson5/While4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="32" lean-forward="true" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson5/While3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson5/While6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson4/List.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson8/Void8.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="111" selection-start-line="20" selection-start-column="111" selection-end-line="20" selection-end-column="111" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson8/Void7.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson8/Void6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson8/Void5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="2" selection-start-column="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson8/Void11.py" />
+    <entry file="file://$PROJECT_DIR$/Lesson5/While7.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson7/Break.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="19" lean-forward="true" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson9/Function5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="604">
+          <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson9/Function4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson9/Function3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson4/ListMetodlar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" selection-end-column="107" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson9/Function8.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="69" selection-start-line="11" selection-start-column="69" selection-end-line="11" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson9/Function2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson9/Function1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson9/Function6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="25" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson9/Function7.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson8/Void9.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson9/ReplaceFunction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="17" column="18" lean-forward="true" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson8/Void10.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="9" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson10/Metot1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson10/Metot2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="27" column="100" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson10/Metot3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson10/Metot4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="52" selection-start-line="12" selection-start-column="52" selection-end-line="12" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson10/Metot5.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/ide/ide-scripting.groovy">
+    <entry file="file://$PROJECT_DIR$/Lesson11/Sorted.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="71" lean-forward="true" selection-start-line="19" selection-start-column="71" selection-end-line="19" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson11/Reverse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson1/operatorler_ornek.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-399" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson1/operatorler.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson2/HataYonetimi.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson2/HataYonetimi_Ornek.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson2/HataYonetimi_Ornek1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson2/HataYonetimi_Ornek2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="42" lean-forward="true" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson2/HataYonetimi_Ornek3.py">
+    <entry file="file://$PROJECT_DIR$/Lesson11/Rsplit.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+          <caret line="7" column="50" selection-start-line="7" selection-start-column="50" selection-end-line="7" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson11/Capitalize-Title.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Lesson1/degiskenler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="89" selection-start-line="89" selection-end-line="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson11/Split.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="26" lean-forward="true" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson11/Splitlines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="75" selection-start-line="17" selection-start-column="75" selection-end-line="17" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson11/Lower-Upper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="6" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson11/Endswith.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson11/Startswith.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson11/Örnek2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="19" column="22" lean-forward="true" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson11/Swapcase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson11/Strip.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="1" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson11/Join.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson11/Count.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="31" column="2" selection-start-line="31" selection-start-column="2" selection-end-line="31" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson11/Örnek1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson11/Index.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="3" column="219" selection-start-line="3" selection-start-column="219" selection-end-line="3" selection-end-column="219" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson11/Find.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson11/Center.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson11/Maketrans.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson5/While1.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
