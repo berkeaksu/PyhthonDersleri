@@ -2,13 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="202514aa-8072-4b27-a3f9-997e234122d2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Lesson12-OOP/OOP1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson12-OOP/OOP2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson12-OOP/OOP3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson12-OOP/OOP3_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson12-OOP/OOP4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson12-OOP/OOP_Ornek1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson13-OOP2/1)__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson13-OOP2/2)Inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson13-OOP2/3)Override.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson13-OOP2/4)OOP2_Ornek.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson13-OOP2/5)AccessModifier.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson13-OOP2/6)GarbageCollection.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson12-OOP/OOP1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson12-OOP/1)Class.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson12-OOP/OOP2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson12-OOP/2)Class.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson12-OOP/OOP3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson12-OOP/3)ClassFunction.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson12-OOP/OOP3_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson12-OOP/4)ClassFunction.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson12-OOP/OOP4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson12-OOP/6)__str__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson12-OOP/OOP_Ornek1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson12-OOP/5)OOP_Ornek.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,58 +28,55 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lesson12-OOP/OOP1.py">
+        <entry file="file://$PROJECT_DIR$/Lesson13-OOP2/1)__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="23" column="42" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lesson13-OOP2/2)Inheritance.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="434">
+              <caret line="71" column="41" selection-start-line="71" selection-start-column="41" selection-end-line="71" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lesson13-OOP2/3)Override.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
-              <caret line="8" column="48" selection-start-line="5" selection-start-column="4" selection-end-line="8" selection-end-column="48" />
+              <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lesson12-OOP/OOP2.py">
+        <entry file="file://$PROJECT_DIR$/Lesson13-OOP2/4)OOP2_Ornek.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+            <state relative-caret-position="272">
+              <caret line="16" column="52" selection-start-line="16" selection-start-column="52" selection-end-line="16" selection-end-column="52" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lesson12-OOP/OOP3.py">
+        <entry file="file://$PROJECT_DIR$/Lesson13-OOP2/5)AccessModifier.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="26" selection-start-line="26" selection-end-line="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lesson12-OOP/OOP_Ornek1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="145">
-              <caret line="29" column="79" selection-start-line="29" selection-start-column="79" selection-end-line="29" selection-end-column="79" />
-              <folding>
-                <element signature="e#0#29#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="332">
+              <caret line="66" column="29" selection-start-line="66" selection-start-column="29" selection-end-line="66" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Lesson12-OOP/OOP4.py">
+        <entry file="file://$PROJECT_DIR$/Lesson13-OOP2/6)GarbageCollection.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lesson12-OOP/OOP3_1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="383">
-              <caret line="47" column="1" selection-start-line="47" selection-start-column="1" selection-end-line="47" selection-end-column="1" />
+            <state relative-caret-position="417">
+              <caret line="43" column="186" selection-start-line="43" selection-start-column="186" selection-end-line="43" selection-end-column="186" />
             </state>
           </provider>
         </entry>
@@ -93,12 +96,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Lesson8/Void6.py" />
-        <option value="$PROJECT_DIR$/Lesson8/Void7.py" />
-        <option value="$PROJECT_DIR$/Lesson7/Void8.py" />
-        <option value="$PROJECT_DIR$/Lesson8/Void8.py" />
-        <option value="$PROJECT_DIR$/Lesson8/Void9.py" />
-        <option value="$PROJECT_DIR$/Lesson8/Void11.py" />
         <option value="$PROJECT_DIR$/Lesson9/Function1.py" />
         <option value="$PROJECT_DIR$/Lesson9/Function2.py" />
         <option value="$PROJECT_DIR$/Lesson9/Function3.py" />
@@ -144,14 +141,19 @@
         <option value="$PROJECT_DIR$/Lesson12-OOP/OOP3.py" />
         <option value="$PROJECT_DIR$/Lesson12-OOP/OOP_Ornek1.py" />
         <option value="$PROJECT_DIR$/Lesson12-OOP/OOP4.py" />
+        <option value="$PROJECT_DIR$/Lesson13-OOP2/OOP1.py" />
+        <option value="$PROJECT_DIR$/Lesson13-OOP2/Inheritance.py" />
+        <option value="$PROJECT_DIR$/Lesson13-OOP2/3)Override.py" />
+        <option value="$PROJECT_DIR$/Lesson13-OOP2/4)OOP2_Ornek.py" />
+        <option value="$PROJECT_DIR$/Lesson13-OOP2/5)AccessModifier.py" />
+        <option value="$PROJECT_DIR$/Lesson13-OOP2/6)GarbageCollection.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="20" />
-    <option name="y" value="20" />
-    <option name="width" value="1400" />
-    <option name="height" value="820" />
+    <option name="x" value="713" />
+    <option name="width" value="734" />
+    <option name="height" value="867" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -159,6 +161,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -171,15 +174,20 @@
               <item name="PythonExp" type="462c0819:PsiDirectoryNode" />
               <item name="Lesson12-OOP" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="PythonExp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonExp" type="462c0819:PsiDirectoryNode" />
+              <item name="Lesson13-OOP2" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="PyConsoleOptionsProvider">
@@ -207,8 +215,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.OOP4">
-    <configuration name="OOP2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.6)GarbageCollection">
+    <configuration name="3)Override" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonExp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -216,11 +224,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lesson12-OOP" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lesson13-OOP2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson12-OOP/OOP2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson13-OOP2/3)Override.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -229,7 +237,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="OOP3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="5)AccessModifier" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonExp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -237,11 +245,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lesson12-OOP" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lesson13-OOP2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson12-OOP/OOP3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson13-OOP2/5)AccessModifier.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -250,7 +258,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="OOP3_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="6)GarbageCollection" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonExp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -258,11 +266,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lesson12-OOP" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lesson13-OOP2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson12-OOP/OOP3_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson13-OOP2/6)GarbageCollection.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -271,7 +279,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="OOP4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Inheritance" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonExp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -279,11 +287,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lesson12-OOP" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lesson13-OOP2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson12-OOP/OOP4.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\ahmet.aksu\Desktop\PythonExp\Lesson13-OOP2\2)Inheritance.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -292,7 +300,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="OOP_Ornek1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="OOP1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonExp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -300,11 +308,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lesson12-OOP" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lesson13-OOP2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson12-OOP/OOP_Ornek1.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\ahmet.aksu\Desktop\PythonExp\Lesson13-OOP2\1)__init__.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -315,11 +323,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.OOP4" />
-        <item itemvalue="Python.OOP_Ornek1" />
-        <item itemvalue="Python.OOP3_1" />
-        <item itemvalue="Python.OOP3" />
-        <item itemvalue="Python.OOP2" />
+        <item itemvalue="Python.6)GarbageCollection" />
+        <item itemvalue="Python.5)AccessModifier" />
+        <item itemvalue="Python.3)Override" />
+        <item itemvalue="Python.Inheritance" />
+        <item itemvalue="Python.OOP1" />
       </list>
     </recent_temporary>
   </component>
@@ -340,7 +348,7 @@
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49799198" visible="true" weight="0.23977433" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49799198" visible="true" weight="0.21650212" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.502008" side_tool="true" weight="0.23977433" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -379,42 +387,6 @@
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Lesson8/Void5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="2" selection-start-column="2" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson8/Void11.py" />
-    <entry file="file://$PROJECT_DIR$/Lesson5/While7.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson7/Break.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="19" lean-forward="true" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson9/Function5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="604">
-          <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson9/Function4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Lesson9/Function3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -667,55 +639,91 @@
     <entry file="file://$PROJECT_DIR$/Lesson5/While1.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Etut/Ornek1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson12-OOP/OOP1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="48" selection-start-line="5" selection-start-column="4" selection-end-line="8" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson12-OOP/OOP2.py">
+    <entry file="file://$PROJECT_DIR$/Etut/Ornek1.py" />
+    <entry file="file://$PROJECT_DIR$/Lesson12-OOP/2)Class.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
           <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson12-OOP/OOP3.py">
+    <entry file="file://$PROJECT_DIR$/Lesson12-OOP/1)Class.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
+        <state relative-caret-position="136">
+          <caret line="8" column="48" selection-start-line="5" selection-start-column="4" selection-end-line="8" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson12-OOP/3)ClassFunction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
           <caret line="26" selection-start-line="26" selection-end-line="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson12-OOP/OOP3_1.py">
+    <entry file="file://$PROJECT_DIR$/Lesson12-OOP/5)OOP_Ornek.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="383">
-          <caret line="47" column="1" selection-start-line="47" selection-start-column="1" selection-end-line="47" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson12-OOP/OOP_Ornek1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="29" column="79" selection-start-line="29" selection-start-column="79" selection-end-line="29" selection-end-column="79" />
+        <state relative-caret-position="238">
+          <caret line="26" selection-start-line="26" selection-end-line="27" />
           <folding>
             <element signature="e#0#29#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson12-OOP/OOP4.py">
+    <entry file="file://$PROJECT_DIR$/Lesson13-OOP2/1)__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="42" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson12-OOP/6)__str__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson12-OOP/4)ClassFunction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="457">
+          <caret line="47" column="1" selection-start-line="47" selection-start-column="1" selection-end-line="47" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson13-OOP2/2)Inheritance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="71" column="41" selection-start-line="71" selection-start-column="41" selection-end-line="71" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson13-OOP2/3)Override.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson13-OOP2/4)OOP2_Ornek.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="52" selection-start-line="16" selection-start-column="52" selection-end-line="16" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson13-OOP2/5)AccessModifier.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="66" column="29" selection-start-line="66" selection-start-column="29" selection-end-line="66" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson13-OOP2/6)GarbageCollection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="417">
+          <caret line="43" column="186" selection-start-line="43" selection-start-column="186" selection-end-line="43" selection-end-column="186" />
         </state>
       </provider>
     </entry>
