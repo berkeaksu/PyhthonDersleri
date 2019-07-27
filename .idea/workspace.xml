@@ -2,24 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="202514aa-8072-4b27-a3f9-997e234122d2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Lesson16-OOP5/1)__repr__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson16-OOP5/2)Decorator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson16-OOP5/3)Abstract.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson16-OOP5/4)Abstract.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson16-OOP5/5)Enum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson16-OOP5/5.2)Enum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson16-OOP5/5.3)Enum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson16-OOP5/5.4)Enum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson16-OOP5/5.5)Enum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson16-OOP5/5.6)Enum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson16-OOP5/5.7)Enum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson17-OOP6/Bateri.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson17-OOP6/Flut.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson17-OOP6/Gitar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson17-OOP6/Keman.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson17-OOP6/MuzikAleti.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson17-OOP6/Muzisyen.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson17-OOP6/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,74 +14,7 @@
     <favorites_list name="PythonExp" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lesson17-OOP6/MuzikAleti.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lesson17-OOP6/Bateri.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" lean-forward="true" selection-end-line="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lesson17-OOP6/Gitar.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lesson17-OOP6/Flut.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lesson17-OOP6/Muzisyen.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="33" lean-forward="true" selection-start-column="33" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lesson17-OOP6/Keman.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Lesson17-OOP6/main.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="12" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
-              <folding>
-                <element signature="e#0#29#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -185,11 +100,6 @@
             <path>
               <item name="PythonExp" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonExp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PythonExp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PythonExp" type="462c0819:PsiDirectoryNode" />
-              <item name="Lesson17-OOP6" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PythonExp" type="b2602c69:ProjectViewProjectNode" />
@@ -363,14 +273,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49799198" visible="true" weight="0.21650212" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49799198" visible="true" weight="0.21650212" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.502008" side_tool="true" weight="0.23977433" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30551818" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30551818" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39973083" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -608,13 +517,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/TelefonRehberi.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2601">
-          <caret line="153" column="37" lean-forward="true" selection-start-line="153" selection-start-column="37" selection-end-line="153" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://D:/TelefonRehberi.py" />
     <entry file="file://$PROJECT_DIR$/Lesson16-OOP5/1)__repr__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="434">
@@ -685,9 +588,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson17-OOP6.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson17-OOP6.py" />
     <entry file="file://$PROJECT_DIR$/Lesson16-OOP5/5.7)Enum.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
@@ -739,8 +640,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Lesson17-OOP6/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="12" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
+        <state relative-caret-position="102">
+          <caret line="6" column="25" lean-forward="true" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
           <folding>
             <element signature="e#0#29#0" expanded="true" />
           </folding>
